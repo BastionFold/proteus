@@ -1,0 +1,26 @@
+{
+  "name": "@bastionfold/proteus",
+  "version": "0.1.0",
+  "description": "Live multi-model boardroom AI agent CLI by Bastion Fold LLC",
+  "bin": {
+    "proteus": "./bin/proteus.js"
+  },
+  "main": "./bin/proteus.js",
+  "keywords": [
+    "ai",
+    "agent",
+    "boardroom",
+    "multi-agent",
+    "consensus",
+    "bastionfold"
+  ],
+  "author": "Alexander Sorrell <founder-alexander-sorrell@bastionfold.onworkspace.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BastionFold/proteus.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
