@@ -1,5 +1,7 @@
 # Proteus (`@bastionfold/proteus`)
 
+![Proteus logo](logo.svg)
+
 **Live Multi-Model Boardroom AI Agent CLI**  
 *Built by [Bastion Fold LLC](https://github.com/BastionFold)*
 

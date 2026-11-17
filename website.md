@@ -1,5 +1,7 @@
 ## Proteus
 
+![Proteus logo](https://raw.githubusercontent.com/BastionFold/proteus/main/logo.svg)
+
 **Status:** In development
 
 Frontier cloud models in a structured boardroom — Chair, Code, Security, and Reasoning seats cross-examining every answer. Bring your own API keys, with a hard spend cap on each one.

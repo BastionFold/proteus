@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="480" height="480" role="img" aria-label="Proteus">
+  <title>Proteus v4 — CLI Hub terminal + slate ghost terminal (cloud, shapeshift)</title>
+  <defs>
+    <filter id="trace-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.5" result="blur" />
+      <feFlood flood-color="#e5a62e" flood-opacity="0.45" />
+      <feComposite in2="blur" operator="in" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Project: Proteus = cloud/shapeshift. Ghost terminal offset behind (many live models, form shifting); slate-indigo, no extra gold -->
+  <rect x="15" y="9" width="78" height="68" rx="8" fill="none" stroke="#6a7ba2" stroke-width="2.6" />
+  <!-- Layer 0: Bastion Fold logo, in its entirety (verbatim paths/colors) -->
+  <g transform="translate(48 54) scale(1.22) translate(-24 -24)">
+    <g fill="none" stroke="#0b6772" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M24 4.5 42 14.5v19L24 43.5 6 33.5v-19Z" />
+      <path d="m6 14.5 18 10 18-10M24 4.5v20M24 24.5v19" opacity=".72" />
+      <path d="M6 33.5 24 24.5l18 9" opacity=".34" />
+    </g>
+    <g filter="url(#trace-glow)" fill="none" stroke="#e5a62e" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m13.5 25 7.2 7.2L35 17" stroke-width="2.8" />
+      <path d="M17.1 28.6h3.6M27.8 24.2v-3.1h3.1" stroke-width="1.25" />
+      <g fill="#e5a62e" stroke="none">
+        <circle cx="13.5" cy="25" r="1.8" />
+        <circle cx="20.7" cy="32.2" r="1.8" />
+        <circle cx="27.8" cy="24.2" r="1.25" />
+        <circle cx="30.9" cy="21.1" r="1.25" />
+        <circle cx="35" cy="17" r="1.8" />
+      </g>
+    </g>
+  </g>
+  <!-- Division: CLI Hub = terminal window with >_ prompt (gold kept small) -->
+  <g fill="none" stroke="#0b6772" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="9" y="15" width="78" height="68" rx="8" stroke-width="3" />
+    <path d="M9 27h78" stroke-width="2" />
+    <path d="M76 21h5" stroke-width="2" opacity=".55" />
+  </g>
+  <path d="m16 18.4 5 3.1-5 3.1M24 24.9h6.5" fill="none" stroke="#e5a62e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
