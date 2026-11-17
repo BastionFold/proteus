@@ -71,3 +71,12 @@ Proteus is part of the **Bastion Fold** sovereign agent ecosystem:
 ## License
 
 MIT © [Bastion Fold LLC](https://github.com/BastionFold) — Member Alexander Sorrell.
+
+## Bastion Fold path
+
+[Bastion Fold general hub](https://www.bastion-fold-site.workers.dev/) -> [CLI Hub](https://www.bastion-fold-site.workers.dev/hubs/) -> **Proteus**
+
+- Product page: [https://www.bastion-fold-site.workers.dev/hubs/proteus/](https://www.bastion-fold-site.workers.dev/hubs/proteus/)
+- Pricing: [CLI Hub pricing](https://www.bastion-fold-site.workers.dev/pricing/#cli-hub)
+- Same-branch path: [Aion](https://github.com/BastionFold/aion)
+- This public repo is the product's public face; source code lives in its private engine repo.

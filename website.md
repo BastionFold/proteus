@@ -9,3 +9,12 @@ Frontier cloud models in a structured boardroom — Chair, Code, Security, and R
 ### What's new
 - OMNICLI routing across Claude, GPT, Gemini, DeepSeek, and Groq
 - Per-key budget caps so there are never surprise bills
+
+### Bastion Fold path
+
+[Bastion Fold general hub](https://www.bastion-fold-site.workers.dev/) -> [CLI Hub](https://www.bastion-fold-site.workers.dev/hubs/) -> **Proteus**
+
+- Product page: [https://www.bastion-fold-site.workers.dev/hubs/proteus/](https://www.bastion-fold-site.workers.dev/hubs/proteus/)
+- Pricing: [CLI Hub pricing](https://www.bastion-fold-site.workers.dev/pricing/#cli-hub)
+- Same-branch path: [Aion](https://github.com/BastionFold/aion)
+- This public repo is the product's public face; source code lives in its private engine repo.
